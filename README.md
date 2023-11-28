@@ -1,8 +1,19 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+>**Note**: This repository serves as a practice platform for the Mobile Programming class at Bina Nusantara University, under the guidance of Professor Jullend Gatc. The projects and exercises within the repository are designed to provide hands-on experience in mobile programming, allowing students to explore and implement various concepts in the field. 
+
+## Step 0: Start the emulator
+It's optional step that you can ignore if you have your own emulator or device dedicated to testing. To start Emulator, run the following command from the root of your React Native project:
+
+```
+# using npm
+npm run emulator
+
+# OR using Yarn
+-
+```
 
 ## Step 1: Start the Metro Server
 
